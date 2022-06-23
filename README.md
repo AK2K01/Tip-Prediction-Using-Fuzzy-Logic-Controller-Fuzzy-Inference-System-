@@ -9,6 +9,13 @@ The goal is to create a Fuzzy Control System which models how you might choose t
 3. Setting up the rule base.
 4. Testing the model against several different test cases.
 
+## Results and Analysis
+1. If the Service is given a rating of 3 out of 10 and the Food Quality is given a rating of 8 out of 10: Tip comes out to be 16.7%.
+2. If the Service is given a rating of 2 out of 10 and the Food Quality is given a rating of 1 out of 10: Tip comes out to be 7.95%.
+3. If the Service is given a rating of 9 out of 10 and the Food Quality is given a rating of 8 out of 10: Tip comes out to be 23.7%.
+4. If the Service is given a rating of 5 out of 10 and the Food Quality is given a rating of 4 out of 10: Tip comes out to be 15%.
+5. If the Service is given a rating of 3 out of 10 and the Food Quality is given a rating of 10 out of 10: Tip comes out to be 17.6%.
+
 ## Conclusion
 Although Fuzzy Logic in artificial intelligence helps to mimic human reasoning, these systems need expert guidance to be built. This lets you rely on the experience of experts who have a better understanding of the system. Fuzzy Logic can also be used for enhancing the execution of algorithms. IBM Watson uses Fuzzy Logic and fuzzy semantics.
 
